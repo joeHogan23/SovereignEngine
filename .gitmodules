@@ -1,0 +1,6 @@
+[submodule "Monarch/thirdparty/spdlog"]
+	path = Monarch/thirdparty/spdlog
+	url = https://github.com/gabime/spdlog
+[submodule "Monarch/thirdparty/glfw"]
+	path = Monarch/thirdparty/glfw
+	url = https://github.com/TheCherno/glfw
